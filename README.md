@@ -5,7 +5,6 @@ Atuo com automação de processos empresariais, desenvolvendo soluções para re
 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iago-santos-de-azevedo-71b39829a/)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:iago.azevedo2006@gmail.com)
 
 🚀 Tecnologias
